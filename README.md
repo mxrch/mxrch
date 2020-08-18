@@ -5,5 +5,6 @@
 I've always been passionate about computers and hacking.\
 So I upload my tools here, often related to computer security.
 
-If you want to contact me, you can do it here :
+📧 If you want to contact me, you can do it here :
 - Discord : mxrch#8507
+- Twitter : @mxrchreborn
